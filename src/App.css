@@ -1,0 +1,88 @@
+
+.mainContainer{
+   margin-top: 10px;
+}
+
+h5{
+    color: #5088da !important;    
+    font-size: medium;
+    font-weight: 800;
+    margin-top: 22px;
+    margin-left: 10px;
+}
+
+.searchContainer{    
+    display: flex;
+    flex-direction: column;
+}
+
+.searchButton {
+    width: 50px;
+    margin-top: -39px;
+    height: 40px;
+    background-color: #5088da;
+    border: none;
+    margin-left: 97%;
+}
+
+.searchIcon{
+    color: white;
+}
+
+.btnCancel{
+    background-color: white;
+    margin-right:10px ;
+    margin-left: 85%;
+    margin-bottom:10px;
+    border-color: #e7e7e7;
+    color: black;
+    width:100px;
+    height:40px;
+    font-weight: 700
+
+} 
+
+.btnCancel:hover {
+    background: #e7e7e7;
+}
+
+.btnSelect{
+    background-color: yellowgreen;
+    color:white;
+    font-size:600;
+    width:100px;
+    height:40px;
+    border-color: #e7e7e7;
+    font-weight: 800
+}
+
+.btnSelect:hover {
+    background: #e7e7e7;
+  }
+
+.btnContainer{    
+    height: 8%;    
+    background-color: white;   
+    margin-top: 1rem;
+    padding: 1rem;    
+    position: fixed;
+    bottom: 0;
+    left: 2;
+    width: 100%;
+}
+
+.btnBack{
+    background-color: white;
+    margin-right:10px ;
+    margin-left: 94%;
+    margin-bottom:10px;
+    border-color: #e7e7e7;
+    color: black;
+    width:100px;
+    height:40px;
+    font-weight: 700
+  
+  } 
+  .btnBack:hover {
+    background: #e7e7e7;
+  }
